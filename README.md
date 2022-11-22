@@ -1,5 +1,10 @@
 <!-- display the social media buttons in your README -->
 
+Hello There :grinning:
+## Dhairya Patel here 
+
+> Currently studying in Dharamsinh Desai University
+
 [![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
 [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][4]
 [![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (Github))][5]
