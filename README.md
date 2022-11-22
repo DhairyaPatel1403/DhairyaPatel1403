@@ -1,7 +1,7 @@
 <!-- display the social media buttons in your README -->
 
 Hello There :grinning:
-## Dhairya Patel here 
+## Dhairya Patel here...
 
 > Currently studying in Dharamsinh Desai University
 
