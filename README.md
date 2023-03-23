@@ -1,6 +1,6 @@
 <!-- display the social media buttons in your README -->
 
-Hello There :grinning:
+Hello There 😁:
 ## Dhairya Patel here...
 
 > Currently studying Computer Engineering in Dharamsinh Desai University
