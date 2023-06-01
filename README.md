@@ -20,7 +20,7 @@ Hello There 🫡:
           
    <br><br>
 
-#### Find me on -
+#### Find me on :
 <hr>
 
 <img href="https://www.linkedin.com/in/dhairya-patel-032070223" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40px" width="40px"/>
