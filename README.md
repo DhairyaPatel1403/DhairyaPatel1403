@@ -35,7 +35,7 @@ Aspiring Cloud/DevOps Engineer
 
 ### Cloud and DevOps
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" height="40px" width="40px"/> Azure
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40px" width="40px"/> Kubernetes
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40px" width="40px"/> Kubernetes
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40px" width="40px"/> AWS
 
 - 
