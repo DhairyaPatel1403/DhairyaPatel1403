@@ -37,6 +37,6 @@
 
 - 
 ## Find me on:
-- [LinkedIn](https://www.linkedin.com/in/dhairya-patel-032070223) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40px" width="40px" />
+- [](https://www.linkedin.com/in/dhairya-patel-032070223) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40px" width="40px" />
 
 <!-- Add more social media links and icons here -->
