@@ -1,8 +1,7 @@
 <!-- Your README title and introduction -->
-
 ## Dhairya Patel here 🖥️
 
-Aspiring (Exploring fields in Cloud/Devops/AI/CyberSecurity/Fullstack) Engineer
+> ``` Aspiring (Exploring fields in Cloud/Devops/AI/CyberSecurity/Fullstack) Engineer ```
 
 ## Languages and Tools
 ### Web and Design
