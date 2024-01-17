@@ -1,7 +1,6 @@
 <!-- Your README title and introduction -->
 
 ## Dhairya Patel here 🖥️
-Currently studying Computer Engineering in Dharamsinh Desai University
 
 Aspiring (Exploring fields in Cloud/Devops/AI/CyberSecurity/Fullstack) Engineer
 
