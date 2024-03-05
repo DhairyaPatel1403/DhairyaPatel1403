@@ -29,13 +29,13 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40px" width="40px" /> Django
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="40px" width="40px" /> Node.js
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40px" width="40px"/> Firebase
-
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40px" width="40px" /> Postgresql
+          
 ### Cloud and DevOps
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" height="40px" width="40px"/> Azure
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40px" width="40px"/> Kubernetes
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40px" width="40px"/> AWS
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  height="40px" width="40px"/> AWS
 
-- 
 ## Find me on:
 - [Linkedin](https://www.linkedin.com/in/dhairya-patel-032070223)
 <!-- Add more social media links and icons here -->
