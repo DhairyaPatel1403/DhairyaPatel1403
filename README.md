@@ -9,6 +9,14 @@
 
 <hr />
 
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=DhairyaPatel1403&theme=ocean-gradient)](https://git.io/streak-stats)
+  
+</div>
+
+</hr>
+
 ## Languages and Tools
 
 ### Web and Design
@@ -58,3 +66,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
+
+
