@@ -1,7 +1,8 @@
 <!-- Your README title and introduction -->
 <h1 align="center">Dhairya Patel here 👋</h1>
 
-![Dhairya Patel](https://github.com/user-attachments/assets/448b5aff-9ab0-4e6d-9ee4-ee84a885370f)
+![warren smith](https://github.com/user-attachments/assets/7727c845-194a-454e-928d-9b7e28f8d1e6)
+
 
 <hr />
 
