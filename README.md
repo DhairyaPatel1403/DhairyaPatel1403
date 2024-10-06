@@ -3,15 +3,42 @@
 
 ![Dhairya Patel](https://github.com/user-attachments/assets/448b5aff-9ab0-4e6d-9ee4-ee84a885370f)
 
-<p align="center">
-  <em>Aspiring <code>(Exploring fields in Cloud/Devops/AI/CyberSecurity/Fullstack)</code> Engineer</em>
-</p>
-
 <hr />
 
 <div align="center">
+
+<em>Github Status</em>
+
+<code>Interaction and activity Details</code>
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=DhairyaPatel1403&theme=ocean-gradient)](https://git.io/streak-stats)
+
+  <hr/>
+
+  <code>My Most Used Languages</code>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DhairyaPatel1403&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+  <hr/>
+
+  <code>My Trophies</code>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=DhairyaPatel1403&theme=juicyfresh&no-bg=true" />
+
+  <hr/>
+
+  <code>Leetcdode Stats</code>
+<div align="center">
+    <!-- LeetCode Stats -->
+    <a href="https://leetcode.com/dhairya1403#gh-dark-mode-only">
+        <img src="https://leetcard.jacoblin.cool/dhairya1403?border=1&radius=20&theme=unicorn#gh-dark-mode-only" alt="Leetcode Stats">
+    </a>
+
+  
+    
+</div>
+
+  
   
 </div>
 
