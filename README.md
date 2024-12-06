@@ -31,7 +31,7 @@
   <code>Leetcdode Stats</code>
 <div align="center">
     <!-- LeetCode Stats -->
-    <a href="https://leetcode.com/dhairya1403#gh-dark-mode-only">
+    <a href="https://leetcode.com/dhairya1403">
         <img src="https://leetcard.jacoblin.cool/dhairya1403?border=1&radius=20&theme=unicorn#gh-dark-mode-only" alt="Leetcode Stats">
     </a>
 
